@@ -1,4 +1,3 @@
-![シート 1 (2)](https://github.com/user-attachments/assets/4713e5a1-f668-442e-8ce2-1f824688d4d4)
 # 鈴木潤平のポートフォリオ
 
 ## 整形外科混雑分析
@@ -33,7 +32,7 @@
 
 ### 可視化例
 #### ヒートマップ（曜日×時間帯の来院件数）
-![ヒートマップ]([[./dashboards/congestion_heatmap.png](https://public.tableau.com/views/_17505907730690/1_1?:language=ja-JP&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)](https://github.com/user-attachments/assets/4713e5a1-f668-442e-8ce2-1f824688d4d4))
+![ヒートマップ](https://github.com/user-attachments/assets/4713e5a1-f668-442e-8ce2-1f824688d4d4)
 
 #### 主訴別 平均リハビリ時間と来院件数
 ![主訴別リハビリ]([./dashboards/symptom_bar_chart.png](https://public.tableau.com/views/_17505908189580/2_1?:language=ja-JP&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link))
