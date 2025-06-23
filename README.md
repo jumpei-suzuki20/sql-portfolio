@@ -30,8 +30,8 @@
 - 曜日・時間帯別混雑分析:(https://console.cloud.google.com/bigquery?sq=548316000047:ab9484a99f3c4a1f967c74975720ee85)
 - - [曜日・時間帯別混雑分析結果（CSVファイル）](https://github.com/jumpei-suzuki20/sql-portfolio/blob/main/%E6%9B%9C%E6%97%A5%E3%83%BB%E6%99%82%E9%96%93%E5%B8%AF%E5%88%A5%E6%B7%B7%E9%9B%91%E5%88%86%E6%9E%90.csv)
   - 
-- 主訴別リハビリ時間・年齢層傾向分析：(https://console.cloud.google.com/bigquery?sq=548316000047:64a3913600c04c70b725197159545067)
-- -[主訴別リハビリ時間・年齢層傾向分析結果（CSVファイル）](https://github.com/jumpei-suzuki20/sql-portfolio/blob/main/%E4%B8%BB%E8%A8%B4%E5%88%A5%E3%83%AA%E3%83%8F%E3%83%92%E3%82%99%E3%83%AA%E6%99%82%E9%96%93%E3%83%BB%E5%B9%B4%E9%BD%A2%E5%B1%A4%E5%82%BE%E5%90%91%E5%88%86%E6%9E%90%E7%B5%90%E6%9E%9C.csv)
+- 主訴別 平均リハビリ時間と来院件数分析：(https://console.cloud.google.com/bigquery?sq=548316000047:64a3913600c04c70b725197159545067)
+- -[主訴別 平均リハビリ時間と来院件数分析結果（CSVファイル）](https://github.com/jumpei-suzuki20/sql-portfolio/blob/main/%E4%B8%BB%E8%A8%B4%E5%88%A5%E3%83%AA%E3%83%8F%E3%83%92%E3%82%99%E3%83%AA%E6%99%82%E9%96%93%E3%83%BB%E5%B9%B4%E9%BD%A2%E5%B1%A4%E5%82%BE%E5%90%91%E5%88%86%E6%9E%90%E7%B5%90%E6%9E%9C.csv)
 - 
 - 主訴別 来院患者の年齢層構成比:(https://console.cloud.google.com/bigquery?sq=548316000047:c28ad27aee59457fa1d843eeed82e25b)
 - -[主訴別 来院患者の年齢層構成比分析結果（CSVファイル）](https://github.com/jumpei-suzuki20/sql-portfolio/blob/main/%E4%B8%BB%E8%A8%B4%E5%88%A5%20%E6%9D%A5%E9%99%A2%E6%82%A3%E8%80%85%E3%81%AE%E5%B9%B4%E9%BD%A2%E5%B1%A4%E6%A7%8B%E6%88%90%E6%AF%94%E7%B5%90%E6%9E%9C.csv)
