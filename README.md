@@ -33,15 +33,15 @@
 
 ### 可視化例
 #### ヒートマップ（曜日×時間帯の来院件数）
-(https://public.tableau.com/views/_17505907730690/1_1?:language=ja-JP&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+- [ヒートマップダッシュボードを見る（曜日×時間帯の来院件数）](https://public.tableau.com/views/_17505907730690/1_1?:language=ja-JP&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 
 #### 主訴別 平均リハビリ時間と来院件数
-(https://public.tableau.com/views/_17505908189580/2_1?:language=ja-JP&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+- [主訴別 平均リハビリ時間と来院件数ダッシュボードを見る](https://public.tableau.com/views/_17505908189580/2_1?:language=ja-JP&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 
 #### 主訴別 来院患者の年齢層構成比
-(https://public.tableau.com/views/_17505909176350/7?:language=ja-JP&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+- [主訴別 来院患者の年齢層構成比ダッシュボードを見る](https://public.tableau.com/views/_17505909176350/7?:language=ja-JP&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 
 orthopedic-congestion-analysis/
