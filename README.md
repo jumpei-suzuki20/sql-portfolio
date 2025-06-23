@@ -49,19 +49,18 @@
 - [主訴別 来院患者の年齢層構成比ダッシュボードを見る](https://public.tableau.com/views/_17505909176350/7?:language=ja-JP&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 
-orthopedic-congestion-analysis/
 ├── README.md
 ├── sql/
-│   ├── congestion_analysis.sql                      # 曜日・時間帯別混雑分析のSQL
-│   ├── symptom_rehab_analysis.sql                   # 主訴別 平均リハビリ時間と来院件数分析のSQL
-│   ├── symptom_agegroup_analysis.sql                # 主訴別 来院患者の年齢層構成比分析のSQL
+│ ├── congestion_analysis.sql
+│ ├── symptom_rehab_analysis.sql
+│ └── symptom_agegroup_analysis.sql
 ├── report/
-│   ├── congestion_analysis_result.csv               # 曜日・時間帯別混雑分析結果
-│   ├── symptom_rehab_analysis_result.csv            # 主訴別 平均リハビリ時間と来院件数分析結果
-│   ├── symptom_agegroup_analysis_result.csv         # 主訴別 来院患者の年齢層構成比分析結果
+│ ├── congestion_analysis_result.csv
+│ ├── symptom_rehab_analysis_result.csv
+│ └── symptom_agegroup_analysis_result.csv
 ├── dashboards/
-│   ├── congestion_heatmap.png                       # ヒートマップのスクショまたはサムネイル
-│   ├── symptom_bar_chart.png                        # 主訴別 平均リハビリ時間と来院件数グラフ
-│   ├── age_group_bar_chart.png                      # 主訴別 年齢層構成比の積み上げ棒グラフ
+│ ├── congestion_heatmap.png
+│ ├── symptom_bar_chart.png
+│ └── age_group_bar_chart.png
 
 
