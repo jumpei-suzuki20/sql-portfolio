@@ -36,10 +36,10 @@
 
 
 #### 主訴別 平均リハビリ時間と来院件数
-![主訴別リハビリ]([[https://github.com/user-attachments/assets/d6ebab98-7d5d-4a43-b5aa-7c433cb5ca8a](https://public.tableau.com/views/_17505908189580/2_1?:language=ja-JP&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)](https://public.tableau.com/app/profile/.56172193/viz/_17505908189580/2_1))
+(https://public.tableau.com/views/_17505908189580/2_1?:language=ja-JP&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 #### 主訴別 来院患者の年齢層構成比
-![主訴別年齢層]([./dashboards/age_group_bar_chart.png](https://public.tableau.com/views/_17505909176350/7?:language=ja-JP&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link))
+(https://public.tableau.com/views/_17505909176350/7?:language=ja-JP&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 
 orthopedic-congestion-analysis/
