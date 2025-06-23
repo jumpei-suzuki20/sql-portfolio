@@ -49,18 +49,21 @@
 - [主訴別 来院患者の年齢層構成比ダッシュボードを見る](https://public.tableau.com/views/_17505909176350/7?:language=ja-JP&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 
+### フォルダ構造
+```
+orthopedic-congestion-analysis/
 ├── README.md
 ├── sql/
-│ ├── congestion_analysis.sql
-│ ├── symptom_rehab_analysis.sql
-│ └── symptom_agegroup_analysis.sql
+│   ├── congestion_analysis.sql
+│   ├── symptom_rehab_analysis.sql
+│   └── symptom_agegroup_analysis.sql
 ├── report/
-│ ├── congestion_analysis_result.csv
-│ ├── symptom_rehab_analysis_result.csv
-│ └── symptom_agegroup_analysis_result.csv
+│   ├── congestion_analysis_result.csv
+│   ├── symptom_rehab_analysis_result.csv
+│   └── symptom_agegroup_analysis_result.csv
 ├── dashboards/
-│ ├── congestion_heatmap.png
-│ ├── symptom_bar_chart.png
-│ └── age_group_bar_chart.png
-
+│   ├── congestion_heatmap.png
+│   ├── symptom_bar_chart.png
+│   └── age_group_bar_chart.png
+```
 
