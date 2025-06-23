@@ -50,12 +50,18 @@
 
 
 orthopedic-congestion-analysis/
-├── README.md  （GitHub 用の内容入り）
+├── README.md
 ├── sql/
-│   ├── congestion_analysis.sql
-│   └── symptom_analysis.sql
+│   ├── congestion_analysis.sql                      # 曜日・時間帯別混雑分析のSQL
+│   ├── symptom_rehab_analysis.sql                   # 主訴別 平均リハビリ時間と来院件数分析のSQL
+│   ├── symptom_agegroup_analysis.sql                # 主訴別 来院患者の年齢層構成比分析のSQL
+├── report/
+│   ├── congestion_analysis_result.csv               # 曜日・時間帯別混雑分析結果
+│   ├── symptom_rehab_analysis_result.csv            # 主訴別 平均リハビリ時間と来院件数分析結果
+│   ├── symptom_agegroup_analysis_result.csv         # 主訴別 来院患者の年齢層構成比分析結果
 ├── dashboards/
-│   ├── congestion_heatmap.png （ダミー）
-│   ├── symptom_bar_chart.png （ダミー）
-│   └── age_group_bar_chart.png （ダミー）
-└── report/
+│   ├── congestion_heatmap.png                       # ヒートマップのスクショまたはサムネイル
+│   ├── symptom_bar_chart.png                        # 主訴別 平均リハビリ時間と来院件数グラフ
+│   ├── age_group_bar_chart.png                      # 主訴別 年齢層構成比の積み上げ棒グラフ
+
+
