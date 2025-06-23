@@ -1,4 +1,3 @@
-'''
 # 鈴木潤平のポートフォリオ
 
 ## 整形外科混雑分析
@@ -48,7 +47,6 @@
 
 #### 主訴別 来院患者の年齢層構成比
 - [主訴別 来院患者の年齢層構成比ダッシュボードを見る](https://public.tableau.com/views/_17505909176350/7?:language=ja-JP&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
-'''
 
 ### フォルダ構造
 ```
