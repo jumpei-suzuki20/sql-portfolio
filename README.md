@@ -28,7 +28,7 @@
 
 ### SQLファイル
 - [congestion_analysis.sql](https://console.cloud.google.com/bigquery?sq=548316000047:4386939fe519432886944c8320de2079)：曜日・時間帯別混雑分析
-- [symptom_analysis.sql](./sql/symptom_analysis.sql)：主訴別リハビリ時間・年齢層傾向分析
+- [symptom_analysis.sql]([./sql/symptom_analysis.sql](https://console.cloud.google.com/bigquery?sq=548316000047:928169b907fa4751826e9558bd9e5b49))：主訴別リハビリ時間・年齢層傾向分析
 - 
 
 ### 可視化例
