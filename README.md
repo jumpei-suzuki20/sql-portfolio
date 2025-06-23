@@ -32,7 +32,7 @@
 
 ### 可視化例
 #### ヒートマップ（曜日×時間帯の来院件数）
-![ヒートマップ]([[https://github.com/user-attachments/assets/4713e5a1-f668-442e-8ce2-1f824688d4d4](https://public.tableau.com/app/profile/.56172193/viz/_17505907730690/1_1)](https://public.tableau.com/views/_17505907730690/1_1?:language=ja-JP&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link))
+![ヒートマップ]([https://github.com/user-attachments/assets/4713e5a1-f668-442e-8ce2-1f824688d4d4](https://public.tableau.com/app/profile/.56172193/viz/_17505907730690/1_1)](https://public.tableau.com/views/_17505907730690/1_1?:language=ja-JP&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link))
 
 #### 主訴別 平均リハビリ時間と来院件数
 ![主訴別リハビリ]([[https://github.com/user-attachments/assets/d6ebab98-7d5d-4a43-b5aa-7c433cb5ca8a](https://public.tableau.com/views/_17505908189580/2_1?:language=ja-JP&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)](https://public.tableau.com/app/profile/.56172193/viz/_17505908189580/2_1))
