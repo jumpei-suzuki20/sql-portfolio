@@ -27,9 +27,9 @@
 - 来院件数が多くリハビリ負担の大きい主訴に応じた専門担当者配置、時間帯別体制強化
 
 ### SQLファイル
-- [congestion_analysis.sql](https://console.cloud.google.com/bigquery?sq=548316000047:ab9484a99f3c4a1f967c74975720ee85)：曜日・時間帯別混雑分析
-- [symptom_analysis.sql](https://console.cloud.google.com/bigquery?sq=548316000047:9c261e3374be4233a1b88e8f0027e1d5)：主訴別リハビリ時間・年齢層傾向分析
-- (https://console.cloud.google.com/bigquery?sq=548316000047:83195a89193a42359e442beded287ca8)
+- 曜日・時間帯別混雑分析:(https://console.cloud.google.com/bigquery?sq=548316000047:ab9484a99f3c4a1f967c74975720ee85)
+- 主訴別リハビリ時間・年齢層傾向分析：(https://console.cloud.google.com/bigquery?sq=548316000047:9c261e3374be4233a1b88e8f0027e1d5)
+- (https://console.cloud.google.com/bigquery?sq=548316000047:c28ad27aee59457fa1d843eeed82e25b)
 
 ### 可視化例
 #### ヒートマップ（曜日×時間帯の来院件数）
