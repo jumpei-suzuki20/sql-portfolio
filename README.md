@@ -72,16 +72,16 @@
 orthopedic-congestion-analysis/
 ├── README.md
 ├── sql/
-│   ├── congestion_analysis.sql
-│   ├── symptom_rehab_analysis.sql
-│   └── symptom_agegroup_analysis.sql
+│   ├── https://console.cloud.google.com/bigquery?sq=548316000047:ab9484a99f3c4a1f967c74975720ee85
+│   ├── https://console.cloud.google.com/bigquery?sq=548316000047:64a3913600c04c70b725197159545067
+│   └── https://console.cloud.google.com/bigquery?sq=548316000047:c28ad27aee59457fa1d843eeed82e25b
 ├── report/
-│   ├── congestion_analysis_result.csv
-│   ├── symptom_rehab_analysis_result.csv
-│   └── symptom_agegroup_analysis_result.csv
+│   ├── https://github.com/jumpei-suzuki20/sql-portfolio/blob/main/%E6%9B%9C%E6%97%A5%E3%83%BB%E6%99%82%E9%96%93%E5%B8%AF%E5%88%A5%E6%B7%B7%E9%9B%91%E5%88%86%E6%9E%90.csv
+│   ├── https://github.com/jumpei-suzuki20/sql-portfolio/blob/main/%E4%B8%BB%E8%A8%B4%E5%88%A5%20%E5%B9%B3%E5%9D%87%E3%83%AA%E3%83%8F%E3%83%92%E3%82%99%E3%83%AA%E6%99%82%E9%96%93%E3%81%A8%E6%9D%A5%E9%99%A2%E4%BB%B6%E6%95%B0%E5%88%86%E6%9E%90%E7%B5%90%E6%9E%9C.csv
+│   └── https://github.com/jumpei-suzuki20/sql-portfolio/blob/main/%E4%B8%BB%E8%A8%B4%E5%88%A5%20%E6%9D%A5%E9%99%A2%E6%82%A3%E8%80%85%E3%81%AE%E5%B9%B4%E9%BD%A2%E5%B1%A4%E6%A7%8B%E6%88%90%E6%AF%94%E7%B5%90%E6%9E%9C.csv
 ├── dashboards/
-│   ├── congestion_heatmap.png
-│   ├── symptom_bar_chart.png
-│   └── age_group_bar_chart.png
+│   ├── https://public.tableau.com/views/_17505907730690/1_1?:language=ja-JP&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+│   ├── https://public.tableau.com/views/_17505908189580/2_1?:language=ja-JP&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+│   └── https://public.tableau.com/views/_17505909176350/7?:language=ja-JP&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 ```
 
