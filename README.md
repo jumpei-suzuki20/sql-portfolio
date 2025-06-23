@@ -32,7 +32,7 @@
 
 ### 可視化例
 #### ヒートマップ（曜日×時間帯の来院件数）
-[ヒートマップダッシュボードを見る](https://public.tableau.com/views/_17505907730690/1_1?:language=ja-JP&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+(https://public.tableau.com/views/_17505907730690/1_1?:language=ja-JP&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 
 #### 主訴別 平均リハビリ時間と来院件数
